@@ -7,3 +7,7 @@ Header h1 and h2 instances were created.
 ```python
 from torch import nn.functional
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
